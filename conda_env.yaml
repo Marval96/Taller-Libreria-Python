@@ -14,4 +14,4 @@ dependencies:
 - myst-nb
 - numpy
 - numba
-
+- gcc
